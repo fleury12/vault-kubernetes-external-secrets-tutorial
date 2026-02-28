@@ -1,5 +1,8 @@
 # Vault External Secrets Tutorial
 
+  <div align="center">
+        <img src="./assets/1.png" alt="Logo" width="100%" height="100%">
+  </div>
 
 ## Prerequisites
 
